@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmmarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\frmmarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmkategori.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmkategori.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\frmmusterilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmusterilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmmusterilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmusterilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|c:\\users\\lenovo\\source\\repos\\stockdb\\stockdb\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|C:\\Users\\LENOVO\\source\\repos\\StockDb\\stockdb\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92AC61D-325F-49EB-9299-B4C7FC72E9BD}|StockDb\\StockDb.csproj|solutionrelative:stockdb\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKategori.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmKategori.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.cs",
+              "RelativeToolTip": "StockDb\\frmKategori.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:26:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMarka.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMarka.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMarka.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMarka.cs [Conception]",
+              "RelativeToolTip": "StockDb\\frmMarka.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:54:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMarka.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMarka.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMarka.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMarka.cs",
+              "RelativeToolTip": "StockDb\\frmMarka.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:33:53.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmKategori.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.Designer.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmKategori.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.Designer.cs",
+              "RelativeToolTip": "StockDb\\frmKategori.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:51:14.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUrunEkle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmUrunEkle.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmUrunEkle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmUrunEkle.cs",
+              "RelativeToolTip": "StockDb\\frmUrunEkle.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAArwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:25:22.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmKategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmKategori.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmKategori.cs [Design]",
+              "RelativeToolTip": "StockDb\\frmKategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:53:27.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmUrunEkle.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmUrunEkle.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmUrunEkle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmUrunEkle.cs [Conception]",
+              "RelativeToolTip": "StockDb\\frmUrunEkle.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:21:38.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\Form1.cs",
+              "RelativeDocumentMoniker": "StockDb\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\Form1.cs",
+              "RelativeToolTip": "StockDb\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA8wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:53:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\Form1.cs",
+              "RelativeDocumentMoniker": "StockDb\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\Form1.cs [Conception]",
+              "RelativeToolTip": "StockDb\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:47:15.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMusteriListele.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriListele.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMusteriListele.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriListele.cs [Conception]",
+              "RelativeToolTip": "StockDb\\frmMusteriListele.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:44:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMusteriListele.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriListele.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMusteriListele.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriListele.cs",
+              "RelativeToolTip": "StockDb\\frmMusteriListele.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAjwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:51:30.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMusteriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriEkle.cs",
+              "RelativeToolTip": "StockDb\\frmMusteriEkle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:27:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMusteriEkle.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "StockDb\\frmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\frmMusteriEkle.cs [Conception]",
+              "RelativeToolTip": "StockDb\\frmMusteriEkle.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:13:50.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
