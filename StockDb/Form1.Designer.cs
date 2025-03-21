@@ -74,7 +74,7 @@
             dataGridView1.Location = new Point(320, 165);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 62;
-            dataGridView1.Size = new Size(747, 391);
+            dataGridView1.Size = new Size(789, 391);
             dataGridView1.TabIndex = 0;
             // 
             // groupBox1
@@ -139,6 +139,7 @@
             txtTC.Name = "txtTC";
             txtTC.Size = new Size(132, 31);
             txtTC.TabIndex = 0;
+            txtTC.TextChanged += txtTC_TextChanged;
             // 
             // groupBox2
             // 
@@ -166,7 +167,7 @@
             label8.Name = "label8";
             label8.Size = new Size(112, 25);
             label8.TabIndex = 10;
-            label8.Text = "Toplam Fyati";
+            label8.Text = "Toplam Fiyat";
             // 
             // label7
             // 
@@ -217,6 +218,7 @@
             txtSatisFiyati.Name = "txtSatisFiyati";
             txtSatisFiyati.Size = new Size(132, 31);
             txtSatisFiyati.TabIndex = 4;
+            txtSatisFiyati.TextChanged += txtSatisFiyati_TextChanged;
             // 
             // txtMiktari
             // 
@@ -224,6 +226,9 @@
             txtMiktari.Name = "txtMiktari";
             txtMiktari.Size = new Size(132, 31);
             txtMiktari.TabIndex = 3;
+            txtMiktari.Text = "1";
+            txtMiktari.TextAlign = HorizontalAlignment.Center;
+            txtMiktari.TextChanged += txtMiktari_TextChanged;
             // 
             // txtUrunAdi
             // 
@@ -238,6 +243,7 @@
             txtBarkodNo.Name = "txtBarkodNo";
             txtBarkodNo.Size = new Size(132, 31);
             txtBarkodNo.TabIndex = 1;
+            txtBarkodNo.TextChanged += txtBarkodNo_TextChanged;
             // 
             // label9
             // 
@@ -310,6 +316,7 @@
             button8.TabIndex = 11;
             button8.Text = "Urun Listeleme";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // button7
             // 
@@ -349,24 +356,27 @@
             btnEkle.TabIndex = 7;
             btnEkle.Text = "Ekle";
             btnEkle.UseVisualStyleBackColor = true;
+            btnEkle.Click += btnEkle_Click;
             // 
             // btnSil
             // 
-            btnSil.Location = new Point(1079, 168);
+            btnSil.Location = new Point(1115, 167);
             btnSil.Name = "btnSil";
             btnSil.Size = new Size(112, 34);
             btnSil.TabIndex = 8;
             btnSil.Text = "Sil";
             btnSil.UseVisualStyleBackColor = true;
+            btnSil.Click += btnSil_Click;
             // 
             // btnSatisFiyat
             // 
-            btnSatisFiyat.Location = new Point(1079, 216);
+            btnSatisFiyat.Location = new Point(1115, 215);
             btnSatisFiyat.Name = "btnSatisFiyat";
             btnSatisFiyat.Size = new Size(112, 34);
             btnSatisFiyat.TabIndex = 9;
             btnSatisFiyat.Text = "Satis Fiyati";
             btnSatisFiyat.UseVisualStyleBackColor = true;
+            btnSatisFiyat.Click += btnSatisFiyat_Click;
             // 
             // btnSatisYap
             // 
@@ -395,6 +405,7 @@
             Controls.Add(dataGridView1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();

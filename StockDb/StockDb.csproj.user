@@ -19,5 +19,8 @@
     <Compile Update="frmUrunEkle.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmUrunListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

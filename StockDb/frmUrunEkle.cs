@@ -19,7 +19,7 @@ namespace StockDb
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQLEXPRESS;Initial Catalog=Stock_Takibi;Integrated Security=True;Encrypt=False");
+        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQL;Initial Catalog=\"Giyim Takibi\";Integrated Security=True;Encrypt=False");
         private void kategorigetir()
         {
             baglanti.Open();
@@ -34,12 +34,12 @@ namespace StockDb
         bool durum;
         private void barkodkontrol()
         {
-            durum = true; 
+            durum = true;
 
             // Barkod numarasının boş olup olmadığını kontrol et
             if (string.IsNullOrWhiteSpace(txtBarkodNo.Text))
             {
-                durum = false; 
+                durum = false;
                 return;
             }
 
@@ -118,8 +118,8 @@ namespace StockDb
                     textBox.Text = "";
                 }
 
-                
-                if (item is WinFormsTextBox comboBox )
+
+                if (item is WinFormsTextBox comboBox)
                 {
                     comboBox.Text = "";
                 }
@@ -201,6 +201,9 @@ namespace StockDb
             MessageBox.Show("Var olan ürüne ekleme yapıldı.");
         }
 
+        private void comboMarka_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }

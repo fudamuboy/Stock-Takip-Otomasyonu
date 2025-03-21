@@ -1833,11 +1833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\StockDb.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\DataBase projet\\StockDb\\StockDb.csproj",
       "projectName": "StockDb",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\StockDb.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\DataBase projet\\StockDb\\StockDb.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\StockDb\\StockDb\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\DataBase projet\\StockDb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1870,7 +1870,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1904,7 +1904,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

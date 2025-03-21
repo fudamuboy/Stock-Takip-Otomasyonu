@@ -169,6 +169,7 @@
             comboMarka.Name = "comboMarka";
             comboMarka.Size = new Size(148, 33);
             comboMarka.TabIndex = 6;
+            comboMarka.SelectedIndexChanged += comboMarka_SelectedIndexChanged;
             // 
             // comboKategori
             // 
@@ -375,7 +376,7 @@
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(128, 128, 255);
-            ClientSize = new Size(785, 592);
+            ClientSize = new Size(822, 598);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "frmUrunEkle";

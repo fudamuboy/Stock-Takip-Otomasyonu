@@ -18,7 +18,7 @@ namespace StockDb
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQLEXPRESS;Initial Catalog=Stock_Takibi;Integrated Security=True;Encrypt=False");
+        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQL;Initial Catalog=\"Giyim Takibi\";Integrated Security=True;Encrypt=False");
         DataSet daset = new DataSet();
         
 

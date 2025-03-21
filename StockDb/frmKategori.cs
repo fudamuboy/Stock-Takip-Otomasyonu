@@ -16,10 +16,10 @@ namespace StockDb
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQLEXPRESS;Initial Catalog=Stock_Takibi;Integrated Security=True;Encrypt=False");
-       
+        SqlConnection baglanti = new SqlConnection("Data Source=KARTAL\\SQL;Initial Catalog=\"Giyim Takibi\";Integrated Security=True;Encrypt=False");
+
         bool durum;
-        
+
         private void frmKategori_Load(object sender, EventArgs e)
         {
 
@@ -64,6 +64,9 @@ namespace StockDb
             baglanti.Close(); // Bağlantıyı kapat.
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }
